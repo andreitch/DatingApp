@@ -1,1 +1,6 @@
 .idea
+API/obj
+API/bin
+localhost.pfx
+.vscode
+API/datingapp.db*
