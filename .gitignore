@@ -1,6 +1,6 @@
 .idea
 API/obj
 API/bin
-localhost.pfx
+ssl
 .vscode
 API/datingapp.db*
